@@ -1,0 +1,1 @@
+This is the bookmarks application. It uses javascript launcher (located at images/template) to run a javascript code (located at images/static/js)  to capture pictures on a web page, and allows users to save the pictures on their profile. Other users can now like the pictures and follow different users. 

@@ -1,0 +1,23 @@
+# Python-related
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Virtual environments
+env/
+
+# Django-related
+db.sqlite3
+/staticfiles/
+/media/
+
+# IDE-specific files
+.vscode/
+*.log
+
+# SSL/TLS certificate files
+*.crt
+*.key
+
